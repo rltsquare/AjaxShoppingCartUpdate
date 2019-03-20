@@ -67,4 +67,4 @@ This extension will also be available on the Magento® Marketplace when approved
 2. Tested on different themes specifically Ultimo, Porto and certain custom themes
 
 For details, read our blog:
-https://www.rltsquare.com/blog/most-viewed-magento-2-extension/
+https://www.rltsquare.com/blog/ajax-shopping-cart-update-magento-2-extension/
