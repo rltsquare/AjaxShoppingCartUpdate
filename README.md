@@ -2,7 +2,8 @@
 
 # Overview
 
-The AJAX Shopping Cart Update for Magento 2 extension has been developed by the product team at RLTSquare. AJAX Shopping Cart Update With this extension, you can update quantity seamlessly and see total price adjustments on the shopping cart page without having to click 'update to cart' button. You can see total price adjustments on the shopping cart page instantly. There are no needless page reloads. There are buttons to increase or decrease the quantity of items on your cart. It is a much simpler approach for updating the products on your cart. Our extension provides many options for settings from the admin.
+AJAX Shopping Cart Update is built to update the quantity of your customer’s order seamlessly. You can see total price adjustments on the shopping cart page instantly. There are no needless page reloads. There are buttons to increase or decrease the quantity of items on your cart. It is a much simpler approach for updating the products on your cart. Customers don’t have to manually enter the quantity in the cart, if they don’t want to. They don’t have to click ‘Update to Cart’ button every time they add, remove or delete products. This makes the whole process intuitive and flawless. It also helps in decreasing the cart abandonment rate. The fact that customers feel the checkout process is easier, intuitive and faster builds trust in your customers which results in increase in ROI.  
+The AJAX Shopping Cart extension is guaranteed to improve effective engagement with your customers. It makes it more appealing and user friendly which greatly enhances the customer experience.
 
 Here are some of the salient features for the extension:
 
